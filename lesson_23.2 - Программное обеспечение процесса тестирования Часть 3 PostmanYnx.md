@@ -1,4 +1,4 @@
-# Практическое задание к занятию «2»
+# Практическое задание к занятию «23.2 - Программное обеспечение процесса тестирования Часть 3 PostmanYandex»
 
 [Инструкции по установке Postman, JMeter и BlazeMeter и запуску Terminal](https://github.com/AMuzhev/Instructions/blob/main/InstructionJmeter-Postman.md)
 
