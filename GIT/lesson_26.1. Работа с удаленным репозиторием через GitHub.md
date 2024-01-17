@@ -45,7 +45,8 @@ _______
    <summary>Текст для вставки в файл README.md</summary>
 
   # NeuroStartUp
-![](https://yadi.sk/d/O0unYRaQSpV6mw)
+"![image](https://github.com/AMuzhev/all-homeworks/assets/152031354/fd7031fa-5455-4779-b978-31993837cb6c)"
+
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 Наши преимущества:
 * Высокая точность поиска
